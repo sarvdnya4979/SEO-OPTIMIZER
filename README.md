@@ -21,7 +21,9 @@
 
 **Option 1 — Via Antigravity (Recommended):**
 Simply ask the agent:
-> "Pull the seo-analyzer skill from GitHub: https://github.com/skylinedg/seo-analyzer-antigravity"
+```bash
+ Pull the seo-analyzer skill from GitHub: https://github.com/skylinedg/seo-analyzer-antigravity
+```
 
 **Option 2 — Manual Clone:**
 ```bash
