@@ -67,7 +67,9 @@ git clone https://github.com/skylinedg/seo-analyzer-antigravity ~/.agents/skills
 
 **Opção 1 — Via Antigravity (Recomendado):**
 Peça ao agente:
-> "Puxe a skill seo-analyzer do GitHub: https://github.com/skylinedg/seo-analyzer-antigravity"
+```bash
+Puxe a skill seo-analyzer do GitHub: https://github.com/skylinedg/seo-analyzer-antigravity
+```
 
 **Opção 2 — Clone Manual:**
 ```bash
